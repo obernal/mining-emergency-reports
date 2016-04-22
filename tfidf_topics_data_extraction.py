@@ -2,6 +2,7 @@ import logging
 import json
 import glob
 import argparse
+import csv
 from gensim import models
 from gensim import matutils
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -9,6 +10,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from time import time
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize
+
 
 def main(K, numfeatures, sample_file, num_display_words, outputfile):
     K_clusters = K
@@ -19,8 +21,11 @@ def main(K, numfeatures, sample_file, num_display_words, outputfile):
                                      use_idf=True)
 
     text = []
-    with open (sample_file, 'r') as f:
-        text = f.readlines()
+
+    with open(sample_file, 'rb') as csvfile:
+         reader = csv.reader(csvfile)
+         for row in reader:
+             text.append(row[1])
 
     t0 = time()
     print("Extracting features from the training dataset using a sparse vectorizer")

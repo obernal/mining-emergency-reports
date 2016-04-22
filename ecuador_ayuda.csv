@@ -1,0 +1,382 @@
+id,description,address,latitude,longitude,device,ip,details,crimes_count,name
+42,favor mandar lo que sea,Troncal Amazónica,-1.9400893594,-77.7282714844,Windows,186.69.117.2,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,drugs
+52,Se necesita agua.,Unnamed Road,0.6059533644,-80.0185775757,Linux,66.102.8.193,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",1,water
+62,Se necesita comida.,Unnamed Road,0.6045801500,-80.0187492371,Linux,66.102.8.155,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",1,food
+72,Se necesita comida.,Unnamed Road,0.6045801500,-80.0187492371,Linux,66.249.88.247,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",1,food
+82,"Se necesita ayuda urgentemente!! Nadie ha llegado por allá todavía ya que las vías de las carreteras están derrumbadas. Si hay un estadio en donde los helicópteros pueden llegar. La gente está sin agua, sin luz, sin ayuda alguna! Por favor contáctense con ROGELIO CHEVEZ 0997801940 que es uno de los sobrevivientes en la zona. ",E38,-0.4037442172,-79.9090576172,iPhone,181.112.8.123,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,rescue
+92,"Rocafuerte necesita de tu ayuda Ecuador. 
+",30 de Septiembre,-0.9248713314,-80.4542541504,Linux,181.112.8.123,"{""browser"":""Chrome"",""version"":""47.0.2526.83"",""platform"":""Linux""}",1,drugs
+102,"Agua 
+Comida
+Medicinas
+Plástico
+Ropa",Unnamed Road,0.3597998813,-80.0051879883,iPhone,181.198.150.8,"{""browser"":""Safari"",""version"":""7.1.2"",""platform"":""iPhone""}",4,food
+112,"Agua, comida, repelente, aseo personal ",Ruta del Spondylus,0.5582339658,-80.0042438507,Linux,66.249.88.217,"{""browser"":""Chrome"",""version"":""48.0.2564.95"",""platform"":""Linux""}",1,water
+122,"Agua
+Comida 
+Medicinas
+Ropa 
+Contacto Daniel 0991883000",Unnamed Road,0.3295880261,-79.9969482422,iPhone,181.198.150.8,"{""browser"":""Safari"",""version"":""7.1.2"",""platform"":""iPhone""}",4,food
+152,"Agua
+Medicinas 
+Ayuda 
+Leche en polvo
+Pañales 
+",Ruta del Spondylus,-0.6188272323,-80.4271316528,iPhone,190.12.7.254,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,hostel
+162,Agua enlatados ,Avenida Jama,-0.2010150600,-80.2607917786,Linux,181.198.139.12,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,water
+172,"Quieres apoyar?
+De una...
+
+Por favor, acolita con los siguientes productos para enviar a personas de la parroquia de Calderón - Portoviejo.
+
+Puedes acolitar con.
+
+Mentol
+Repelente
+Comida no perecible ( comida enlatada, granos, arroz, azúcar)
+Menticol
+Umbral de 500 mg
+Suero oral sin sabor 
+Toallas sanitarias
+Jabón de aseo
+Pasta dental
+Agua en botellones
+Linterna
+Ropa ( para niños y adultos; mujeres y hombres)
+Pilas
+Colchones
+Sábanas
+Toallas
+Comida para perros y gatos
+
+Creo que los productos primordiales son
+- AGUA principalmente
+ -MEDICINAS(alcohol, ibuprofeno, paracetamol, acetaminofen, algodón,  yesos, sueros 
+-ALIMENTOS (enlatados, atún, fideos, arroz, sardina, frijoles,
+-VELAS, TOLDOS, COBIJAS,  (hay muchos mosquitos )
+
+
+Acoliten más información Francisco Palma",E30,-1.0315070000,-80.3394470000,Linux,181.112.104.0,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,water
+182,Se necesita agua para consumo. Formol para los cuerpos. Medicamentos para la presion diabetes. Etc. ,Ruta del Spondylus,-0.2087397726,-80.3073120117,Mobile,190.214.73.191,"{""browser"":""Android"",""version"":"""",""platform"":""Mobile""}",1,water
+192,"No necesitan solo rescate. Necesitan aga, transportación, productos de higiene personal, cobijas, y toda la ayuda de socorristas ",Unnamed Road,0.6083564888,-80.0141143799,Linux,181.39.253.135,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,rescue
+202, tratando de conseguir donaciones para un pueblo de pescadores que se llama san Mateo al sur de manta. Esta igual de afectado que el resto de pueblos pero nadie a ido para allá.,Conector Vía Circunvalación - San Mateo,-0.9611105000,-80.7486145000,iPhone,190.63.1.216,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,drugs
+212,Hay escapes de agua ,Unnamed Road,-0.3900116365,-80.1837158203,Linux,200.125.244.225,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,water
+222,B,Ruta del Spondylus,-0.0302124009,-80.1507568359,iPhone,181.112.107.88,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,water
+232,Se necesita agua potable para damnificados del temblor,E38,-0.4047096000,-79.9057063000,Windows,190.152.144.3,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,water
+242,"Se necesita rescate, agua y medicinas. Siguen cuerpos enterrados bajo los escombros",Avenida Virgilio Ratti,-0.6165957641,-80.4240417480,Macintosh,181.198.54.140,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",1,rescue
+252,Se necesita agua,Unnamed Road,0.6094722247,-80.0159597397,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+262,Se necesita comida,Unnamed Road,0.3289013919,-80.0009393692,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+272,"Necesitamos ayuda de todo tipo, principalmente rescatistas y agua, no hay ayuda  en Rocafuerte.
+
+Alex Caamaño
+Rescatista",Calle Atahualpa,-0.9283041100,-80.4583740234,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,rescue
+282,60 médicos necesitan transporte desde Quito a zona del desastre. Contacto BELEN SÁNCHEZ 099-980-5556,Antonio de Ulloa,-0.1977535136,-78.4986877441,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,transport
+292,"Agua, toldos, carpas, repelente, comida",E38,-0.3543068239,-79.8321533203,Linux,186.69.113.7,"{""browser"":""Chrome"",""version"":""1.5"",""platform"":""Linux""}",1,hostel
+302,ddddd,VÍA A LA REPRESA DAULE - PERIPA,-0.9887204567,-79.7937011719,Macintosh,186.4.147.168,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",1,water
+312,xsdzxczxc,E38,-0.3501655715,-79.8389339447,Macintosh,186.5.66.122,"{""browser"":""Chrome"",""version"":""49.0.2623.110"",""platform"":""Macintosh""}",1,food
+322,"No están recibiendo ayuda, necesitan comida y agua",Ruta del Spondylus,-0.6181406268,-80.4266166687,Macintosh,181.112.24.217,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",1,water
+332,"ESTA MADRUGADA LLEGANDO A COJIMIES
+
+""Un grupo de hombres con armas blancas, cuchillos, navajas destornilladores, machetes, asaltaron dos camiones cargados de agua entrando a Cojimies. No hay daños físicos. Aproximadamente a las 3-4 de la mañana. Estábamos 5 hombres y yo la única mujer. Me botaron al piso y me manosearon. Se llevaron mis zapatos y las botas""
+
+Testimonio de amiga que viajó con una guitarra queriendo llegar a espacios de rescate con gente vulnerable, en las zonas en riesgo por el terremoto",Unnamed Road,0.2966295343,-80.0285339355,Macintosh,201.217.106.221,"{""browser"":""Firefox"",""version"":""45.0"",""platform"":""Macintosh""}",1,transport
+342,Se necesita agua en Calceta,E384,-0.8471609414,-80.1638460159,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+352,Se necesita agua de urgencia. Gente vendiendo agua a $2 el botella...,Ruta del Spondylus,-0.1847073217,-80.3272247314,Windows,181.199.73.98,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,water
+362,INDÍGENAS CHACHI DE ESMERALDAS DESDE LA SELVA CLAMAN AYUDA.SUS CASAS CAYERON AL RIO.CONTACTAR CON SANTIAGO DE LA CRUZ: 0981925564 / 0985568034,Esmeraldas,0.4737370872,-79.3748044968,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,hostel
+372,Ayuda. En la parroquia Abdon Calderón de Portoviejo. Desabastecimiento total viveres y agua. Los camiones no llegan. Autoridades favor su ayuda.,Unnamed Road,-0.8363045310,-80.3526306152,iPhone,200.7.247.167,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,food
+382,Se necesita Agua para Canoa,Calle Javier Santos,-0.4620859598,-80.4560995102,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+392,Se necesita agua para Bahía,Ruta del Spondylus,-0.6541014682,-80.4447269440,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+402,"En las escuelas al entrar al Carmen se encuentran evacuados por favor necesitan comida y agua, por favor",E38,-0.2636709443,-79.5108032227,Windows,181.112.155.172,"{""browser"":""Firefox"",""version"":""27.0"",""platform"":""Windows""}",1,food
+412,"Flavio Alfaro necesita agua, ayuda hermanos ecuatorianos",E38,-0.4028001030,-79.9069333076,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+422,"Se necesita cloro, cepillos de dientes, pasta dental, cloro en sachets, jabón, mascarillas, botas de caucho, pañales y demás artículos de aseo personal.",Avenida 113,-0.9585124166,-80.7131195068,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,drugs
+432,"La zona afectada necesita: cloro, cepillos de dientes, pasta dental, cloro en sachets, jabón, mascarillas, botas de caucho, pañales, toallas sanitarias femeninas.",Ruta del Spondylus,-0.6330742763,-80.4281616211,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,drugs
+442,"Comida para niños, bebés no tiene pañales, escasez de agua.",San Bolívar - San Domingo,-2.0000000000,-79.4166670000,Linux,190.131.88.125,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",2,food
+452,"Por favor enviar mascarillas con filtro, tipo profesional, tipo 3M, para los fuertes olores y que los rescatistas puedan seguir trabajando, alguien que se comunique con 3M y otros fabricantes para que donen",Juan Pereira,0.0736427104,-80.0498628616,Linux,66.102.8.199,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",1,rescue
+462,"Iess de los esteros necesita todo tipo de medicamentos para ayudar a los heridos. 
+El patronato municipal también 
+Cloruro de sodio. Analgésicos. Antibióticos, gasas, alcohol, povidin ",Calle 304,-0.9676533000,-80.7089101000,iPhone,200.125.245.239,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,drugs
+472,"NO TIENEN COMIDA, AGUA, LUZ, AYUDENLOS",Vía a Rocafuerte,-0.7842208000,-80.2343302000,Linux,190.131.88.125,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",2,food
+482,comida,MOISES ARAY,-0.4669137773,-80.4597473145,Windows,181.39.254.234,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,food
+492,"AYUDA SOLICITADA en la vía Chone Boyacá km 5, poblado de san vicente Boyacá.
+
+Este es una pequeña comunidad a la que no ha llegado ayuda alguna y esta completamente devastada. Por su tamaño una especie de caserío , no esta ni registrada en las actas del país por lo que en un futuro cercano nadie llegará. La persona que trabaja con migo esta ahi desde ayer por lo que les facilito los teléfonos de los directivos del pueblito para coordinar la logística. Espero que los puedan ayudar. :) Gracias de antemano.
+
+Nancy Zambrano +593980509070
+Don Vinicio +598980691170
+Oscar Vélez +593981291148
+
+",Calle Principal 30 de Marzo,-0.6953402536,-80.1210165024,Macintosh,179.49.20.5,"{""browser"":""Safari"",""version"":""9.0.3"",""platform"":""Macintosh""}",1,transport
+502,El pueblo está derrumbado. Llamar a Rogelio Chevez 0997801940 es un sobreviviente esperando un rescate! Gracias! ,E38,-0.4009977029,-79.8994445801,iPhone,200.31.24.69,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,rescue
+512,Se necesita agua comida e insumos médicos sobretodo ,Avenida Jama,-0.2020165000,-80.2634774000,Linux,181.112.80.106,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,drugs
+522,"Se requiere agua, comida, vestimenta, carpas, colchones.
+(Asociación de Apicultura 25 de Julio - Rocío Pincay 0999198848) ",Unnamed Road,-1.2364107000,-80.6632103000,Windows,190.95.159.174,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",6,water
+532,Necesitamos Agua en botellón para Chone.,Avenida Sixto Durán Ballén,-0.7024207586,-80.0999450684,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+542,"Agua, alimentos, carpas, colchones, vestido.
+(Cooperativa de Producción Pesquera Artesanal San Francisco de Salinas - telf. Gina Napa 099 1446474)",E383,-0.7645761000,-80.2140053000,Windows,190.95.159.174,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",6,water
+552,"Mompiche está incomunicado. Necesitan agua, comida, vestimenta, albergue y medicinas.
+ ",Calle de las Iguanas,0.5065553953,-80.0220644474,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+562,"Carpas, plásticos, agua, alimento y vestido. 
+(Asociación Cerro Seco, telf: Marcelo Luque 0994376399)",Ruta del Spondylus,-0.8365619963,-80.4869556427,Windows,190.95.159.174,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",6,water
+572,"Agua, alimentos, colchones, sábanas.
+(Comuna San Roque, telf. Bolivar Aragundi 098 9613950",Ruta del Spondylus,-0.8350172076,-80.4877281189,Windows,190.95.159.174,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",6,water
+582,"Por favor necesitan agua, comida, medicionas, vestimenta, colchones, cobijas. No hay ayuda todavía y están incomunicados.",Ruta del Spondylus,-0.4621771519,-80.4550856352,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+592,"Agua, alimentos, carpas, colchones.
+( Unión de Organizaciones Campesinas de San Isidro UOCASI, contacto - Alexandra Leones
+098 440 6777)",Unnamed Road,-1.2962761196,-80.4295349121,Windows,190.95.159.174,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",6,water
+602,Necesitan agua y comida no tienen nada lo han perdido todo,Calle 304,-0.9676533000,-80.7089101000,Windows,186.42.106.70,"{""browser"":""Firefox"",""version"":""45.0"",""platform"":""Windows""}",3,food
+612,"agua, alimentos, carpas, colchones, sábanas.
+(Comuna Las Gilces - Getrudiz Reyes 098 6511666)",Unnamed Road,-0.8216048000,-80.5230077000,Windows,190.95.159.174,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",6,water
+622,"Agua, Enlatados, colchones, vestimenta, medicina. Lo que más escasea es el agua, no tenemos provisiones, no ha llegado la ayuda todavía.",E384,-0.8448008548,-80.1619791985,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+632,"Nadie ha llegado ayudar todavía a estas personas necesitan principalmente comida medicina, hay gente atrapada que no le pueden sacar porque no saben los daños que existen todavía ",E38,-0.4030575887,-79.8726654053,iPhone,186.65.32.123,"{""browser"":""Safari"",""version"":""9.2.1"",""platform"":""iPhone""}",1,water
+642,"Necesitan enlatados, bastante agua, medicina, vestimenta, colchones. El dispensario ya no tiene medicinas.",Unnamed Road,0.3652661139,-80.0377768278,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+652,Se necesita agua en Botellón para Tosagua,Vía a Rocafuerte,-0.7827086178,-80.2333259583,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+662,Es necesario el liquido vital,Ruta del Spondylus,-0.4634806630,-80.4535675049,Linux,181.112.82.77,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",3,water
+672,Están sin agua sin luz sin alimentos hay mucha gente del campo que se han quedado devastecidos completamnete no llega ningún tipo de ayuda por favor!!! Se necesita leche pañales agua sobre todo medicinas!,Vía a Bahía,-0.7717662119,-80.2496337891,Linux,181.113.96.180,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",1,water
+682,"Cientos de personas sin agua, comida, medicinas. Hay mucha gente atrapada, prestar atención a zonas alejadas.",E38,-0.4497481889,-79.9948883057,Macintosh,200.24.214.35,"{""browser"":""Safari"",""version"":""9.1"",""platform"":""Macintosh""}",4,water
+692,"Necesitan agua para beber, están deshidratados
+",Sucre,-1.0563442648,-80.4494476318,Linux,181.112.82.77,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",3,food
+702,"Necesitan agua para beber, están deshidratados
+",Sucre,-1.0563442648,-80.4494476318,Linux,181.112.82.77,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",3,food
+712,Gente de la comunidad sin ningún tipo de ayuda. ,E38,-0.4509497815,-79.9964332581,Macintosh,200.24.214.35,"{""browser"":""Safari"",""version"":""9.1"",""platform"":""Macintosh""}",4,food
+722,"Muchos heridos y enterrados, nadie llega a socorrerlos. ",E38,-0.4509497815,-79.9945449829,Macintosh,200.24.214.35,"{""browser"":""Safari"",""version"":""9.1"",""platform"":""Macintosh""}",4,rescue
+732,No hay luz dese el día del terremoto se necesita medicinas comida y agua ,Antiguo,-0.7827515291,-80.2304077148,Linux,186.101.251.54,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,food
+742,No les llega ninguna ayuda xfavor hagan q las donaciones llegan han perdido todo necesitan agua comida,Calle 305,-0.9675501842,-80.7081654668,Windows,186.42.106.70,"{""browser"":""Firefox"",""version"":""45.0"",""platform"":""Windows""}",3,water
+752,Casi 100% destruído,Calle Santa Martha,-0.7000176793,-80.0994300842,Macintosh,200.24.214.35,"{""browser"":""Safari"",""version"":""9.1"",""platform"":""Macintosh""}",4,hostel
+762,Se necesita artículos de aseo personal,Federico Páez,-0.7845430771,-80.2349030972,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,drugs
+772,"Se requiere artículos de aseo como: cloro en sachets, jabones, alcohol, por favor ayuda",Ruta del Spondylus,0.0731277267,-80.0451421738,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,drugs
+782,No les ha llegdo nigun tipo de ayuda  necesitan hidratarse y comer es urgente ayuden ,Avenida 215,-0.9812435630,-80.7059419155,Windows,186.42.106.70,"{""browser"":""Firefox"",""version"":""45.0"",""platform"":""Windows""}",3,water
+792,"Se necesita comida, se esta acabando todo.",E384,-0.9173192069,-80.1727294922,Android,181.39.221.105,"{""browser"":""Firefox"",""version"":""34.0"",""platform"":""Android""}",1,food
+802,"Urgente, se solicita ayuda con alimentos no perecibles y agua",Malecón,-0.8629949399,-80.5340766907,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+812,"Se necesita comida agua, rescate, comida y medicinas ",E39,-0.9249142412,-80.4513359070,Windows,190.130.224.252,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,rescue
+822,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text e,Calceta - Via Quiroga - Pichincha,-0.9502738136,-80.0354003906,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,clothing
+832,Se necesita agua en botellones y tanques para almacenarla.,Ruta del Spondylus,-0.6186619000,-80.4273644000,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+842,Se necesita agua en botellones y tanques para almacenarla.,Ruta del Spondylus,-0.6186619000,-80.4273644000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+852,Se necesita agua embotellada y tanques para almacenar agua de tanqueros.,Ruta del Spondylus,-0.6543589435,-80.4192352295,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+862,Medicinas ,Ruta del Spondylus,0.0521850514,-80.0381469727,iPhone,83.45.181.163,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",2,drugs
+872,Medicinas ,Ruta del Spondylus,0.0521850514,-80.0381469727,iPhone,83.45.181.163,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",2,drugs
+882,Es importante la ayuda que necesita es Agua y también tanques para poder almacenarla cuando pasa el tanquero.,E482,-1.0459390451,-80.6589603424,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+892,"Se requiere Agua en San Vicente, ayuda con el vital elemento.",Bahia De Caraquez Airport,-0.6077987000,-80.4028416000,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+902,"Se necesita ayuda en diversos recintos de Flavio Alfaro, comida y  agua, por favor contamos con su ayuda.",E38,-0.4033150744,-79.9116647243,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+912,"También se necesita alimento para mascotas en Cojimíes, ayuda por favor",Unnamed Road,0.3639671000,-80.0374246000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+922,"Necesitan, agua, alimentos enlatados, suministros de aseo personal, platos plasticos, fundas de basura industrial, vestimenta.
+
+La comida escasea y hay mucho robo de viveres, las donaciones que van estan en peligro de asaltantes",Avenida Olmedo,-1.0549390258,-80.4523457587,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+932,"Necesitan agua, alimentos enlatados, suministros de aseo personal, platos plasticos, fundas de basura industrial, colchones, vestimenta. La persona de contacto es David Gutierrez -  0994866416
+
+la comida escasea y hay mucho robo de viveres, las donaciones que van no llegan porque los asaltantes no lo permiten",Avenida Olmedo,-1.0547230000,-80.4524903000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+942,"El poblado 'Mono Chibunga', Vía Pedernales km 44 y medio  En la mitad de la vía El Carmen/Pedernales. Hay un rótulo a lado izquierdo que dice Chibunga. Se necesita ayuda con comida, agua y otras cosas también.
+Contactos: Danilo Loor 097 918 6699",E382,-0.0810241429,-79.7286415100,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+952,Por favor en este lugar necesitan de toda la ayuda ya que solo se estan preocupando por pedernales otros lugares de igual manera necesitan ayuda por favor yo se q pedernales es el mas afectado pero un poquito de ayuda no biene mal a este lugar muchisimas gracias que Dios les pague ,E39,-0.9954754000,-80.4173514000,Windows,181.113.99.126,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,rescue
+962,"PLAYA PRIETA necesita de su ayuda con comida y agua, Queda via a Pueblo Nuevo a 15 min de Portoviejo Hay una gruta de Virgen en la carretera a mano izquierda por ahí es la entrada pero si llaman a Bryan él puede salir con gente a esperarlos!
+Contactos: BRYAN ALAVA BRAVO 096 723 8689 ",E30,-1.0362632326,-80.4118537903,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+972,"Rocafuerte-Manabi necesita ayuda con alimentos, agua. Queda a una hora de Chone via a Poroviejo Se  llega a chone se sigue como para ir hasta portoviejo.
+Contactos: CLARA JUDITH ZAMBRANO 098 801 0877",Calle José María Huerta,-0.9221251062,-80.4473876953,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+982,"PLAYA PRIETA necesita de su ayuda con comida y agua, Queda via a Pueblo Nuevo a 15 min de Portoviejo Hay una gruta de Virgen en la carretera a mano izquierda por ahí es la entrada pero si llaman a Bryan él puede salir con gente a esperarlos!
+Contactos: BRYAN ALAVA BRAVO 096 723 8689 ",E384,-0.9682957319,-80.2867126465,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+992,"Ayuda para San Agustín A 20 kilómetros de Bahía.  De Bahía 15 a 20 minutos, necesitan agua y comida.
+Contactos: Patricia Constante  099 821 2502",Ruta del Spondylus,-0.6507542884,-80.4191493988,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1002,Provisiones y rescate ,Waz White,-1.8275403752,-80.7460784912,iPhone,181.39.218.204,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,water
+1012,Agua comida y rescate,Unnamed Road,-1.0272524714,-80.3638744354,Linux,181.113.145.52,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,food
+1022,Agua,Unnamed Road,0.1544950520,-80.0237274170,iPhone,186.65.37.60,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",2,water
+1032,Agua,Unnamed Road,0.1544950520,-80.0237274170,iPhone,186.65.37.60,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",2,water
+1042,Agua y comida (víveres),225,-1.0574169659,-80.4520547390,iPhone,186.4.250.58,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,water
+1052,Agua y comida (víveres),225,-1.0574169659,-80.4520547390,iPhone,186.4.250.58,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,water
+1062,"Comida ,agua",Unnamed Road,-0.4083308471,-80.1599029591,Windows,186.3.251.204,"{""browser"":""Internet Explorer"",""version"":""10.0"",""platform"":""Windows""}",1,food
+1072,Se requiere ayuda porque los caminos están destruidos y toma mucho tiempo llegar. Quizás helicópteros o algún mecanismo para llegar a pequeñas poblaciones con problemas de acceso. ,Ruta del Spondylus,-0.2279657071,-80.2688598633,iPhone,181.175.202.98,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",2,drugs
+1082,Se requiere ayuda porque los caminos están destruidos y toma mucho tiempo llegar. Quizás helicópteros o algún mecanismo para llegar a pequeñas poblaciones con problemas de acceso. ,Ruta del Spondylus,-0.2279657071,-80.2688598633,iPhone,181.175.202.98,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",2,drugs
+1092,Doctores,Ruta del Spondylus,-0.6509259387,-80.4254150391,iPhone,181.198.126.125,"{""browser"":""Safari"",""version"":""8.3"",""platform"":""iPhone""}",1,drugs
+1102,Por dios manden rescatadas!!!! ,Ruta del Spondylus,-0.4637769000,-80.4535121000,Linux,186.65.32.125,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,rescue
+1112,Se necesita agua de urgencia es lo primordial ,Unnamed Road,0.6042368464,-80.0340270996,Linux,190.131.118.132,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",1,water
+1122,Enlatados,Ruta del Spondylus,-0.1922603814,-80.2880859375,iPhone,190.154.116.91,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,food
+1162,Rescatistas,Ruta del Spondylus,0.1483152640,-79.9804687500,Linux,186.65.32.20,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",4,rescue
+1172,Rescatistas,Ruta del Spondylus,0.1483152640,-79.9804687500,Linux,186.65.32.20,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",4,rescue
+1182,Rescatistas,Ruta del Spondylus,0.1483152640,-79.9804687500,Linux,186.65.32.20,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",4,rescue
+1192,Rescatistas,Ruta del Spondylus,0.1483152640,-79.9804687500,Linux,186.65.32.20,"{""browser"":""Chrome"",""version"":""4.0"",""platform"":""Linux""}",4,rescue
+1202,"Tengo amigos haya que Asus casas  se han caído y asín no llega ninguna ayuda necesitan agua alimento medicinas porfavor ayudemos
+",E383A,-0.6037218909,-80.4022407532,Linux,186.46.205.44,"{""browser"":""Android"",""version"":""4.0"",""platform"":""Linux""}",1,food
+1212,"En Don Juan necesitan agua, comida, medicinas para enfermedades crónicas, hiper tensión, diabetes, jarabes para la tos en niños. 
+Juguetes, sabanas.
+No más ropa.
+Voluntarios organizaron a la población en la escuela Son Juan. 
+No tienen luz. ",Ruta del Spondylus,-0.1434229307,-80.2388191223,iPhone,190.152.178.226,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,drugs
+1222,Me comentan q Jama necesita OLLAS para poder cocinar!! ,Ruta del Spondylus,-0.2114863362,-80.2578735352,iPhone,181.175.170.21,"{""browser"":""Safari"",""version"":""8.1.3"",""platform"":""iPhone""}",1,food
+1232,"Ayuda para Coaque se necesita viveres y agua,  por troncal del pacifico o ruta spondylus   despues de lkilometro 15 tomar desviacion a la derecha.
+
+Contacto: Sofia Galeas  098 030 5694",Ruta del Spondylus,0.0000000000,-80.1000000000,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1242,"Ayuda para Jama por favor, se necesita viveres y agua. 
+Contacto: Lic Lenny Estacio 098 352 8290",Avenida Jama,-0.2029891536,-80.2623367310,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+1252,"Ayuda para Bahia de caraquez, necesitan comida y agua.
+Contacto: Rommel García   098 505 3285 ",Ruta del Spondylus,-0.6220886072,-80.4267883301,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1262,"Ayuda en el Hospital Baca Ortiz llegaron algunos niños desde Pedernales, Jama, Manta etc. Y tenemos albergados a 40 personas que vinieron con ellos, necesitamos alimentación o fondos para alimentarles desde la próxima semana.
+
+Cualquier duda por favor comuníquese al 099 758 6901 con María Belén Rodríguez.",Avenida Cristóbal Colón,-0.2023668850,-78.4862422943,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1272,"AYUDA URGENTE Amigos Necesitamos su apoyo, hay 150 personas en Una finca privada que fue abierta por sus dueños para poder albergar a gente que perdió todo, están quedándose sin insumos sin agua y la ayuda no llega ahí porque está ubicada en PUERTO ESCONDIDO 15 km antes de la entrada a Pedernales vía El Carmen, si conocen de equipos o brigadas oficiales que puedan acercarse con donaciones para éstas personas infórmenme de inmediato les envío el contacto ¡COMPARTAN, ENVÍEN A GENTE QUE PUEDA AYUDAR POR FAVOR!
+
+Info con Maru Donoso al +593 98 466 1904",E382,-0.0830840773,-79.6982574463,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1282,"El Pueblito de Rocafuerte ubicado vía Crucita, comida, agua, vestimenta, medicinas",Via Portoviejo Crucita,-0.9114405534,-80.4931783676,Windows,186.4.132.115,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,food
+1292,"Ayuda para 30 niños que han quedado huerfanos se necesita alimentos en general, ropa de niños y niñas, sábanas cobijas.
+
+Contacto: Nancy Salazar 099 562 3208 (Asociación Solidaridad y Acción)
+http://www.asosolac.org/",Francisco Sánchez,-0.0868391658,-78.4702992439,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1302,"Arquitectos o Ingenieros Civiles que puedan ayudar contáctense por favor.
+PNUD (ONU) y MIDUVI necesitan 250 voluntarios INGENIEROS CIVILES y ARQUITECTOS con disponibilidad de desplazamiento por 3 días a las Zonas afectadas por el terremoto, los voluntarios serán capacitados, transportados, y tendrán espacio para acampar.
+
+Contacto: actuemosecuador@gmail.com
+Formulario de Registro: http://bitly.com/actuemosecuador",Avenue 12 De Octubre,-0.2097053614,-78.4922289848,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,rescue
+1312,"Todo tipo de alimentos, víveres y agua",Unnamed Road,0.2746142364,-79.9538612366,iPhone,147.75.208.237,"{""browser"":""Safari"",""version"":""9.2.1"",""platform"":""iPhone""}",1,food
+1322,"Se necesitan carpas y toldos para Junin
+Gracias por la ayuda",E384,-0.9277434000,-80.2070328000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,clothing
+1332,Agua pañales y comida,Calle America,-1.0482775408,-80.6587028503,Linux,201.183.153.128,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",2,water
+1342,"URGENTE SE NECESITAN APROX 28 CAMIONES PARA TRANSPORTAR 2,000 COLCHONES DESDE LATACUNGA! 
+
+CONTACTAR A LUIS MIGUEL DIAZ 099 966 0669",Calle Jaime Roldos Aguilera,-0.9195505181,-78.6212539673,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,transport
+1352,"URGENTE: La ayuda no llega a Bahia de Caraquez. Se necesita, agua, viveres, implementos de aseo, medicinas. Contactar a GUSTAVO HIDALGO: 0939957575",Ruta del Spondylus,-0.6186619000,-80.4273644000,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+1362,"URGENTE: En atacames de necesita viveres en mucha cantidad, agua. Contactar a LUIS PEREA:  0980324820",Unnamed Road,0.8690453123,-79.8477745056,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1372,Se necesita gente voluntaria para clasificar agua y comida.,Unnamed Road,0.3570533530,-80.0326538086,Windows,181.175.172.17,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,water
+1382,"Se necesita ayuda de comida y agua para Canuto, gracias por su apoyo.",E384,-0.7971863000,-80.1275052000,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1392,"Enviar ayuda para San Isidro, comida, agua, medicinas.
+
+Dios recompensara su generosidad.",Unnamed Road,-0.3763083000,-80.1847167000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1402,"Ayuda en los Ranchos de Crucita.
+
+Agua, alimento, medicinas, carpas, toldos.
+ ",Unnamed Road,-0.8494781160,-80.5310726166,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1412,"En los Arenales de Crucita necesitan de ayuda con agua, alimento, carpas, toldos.",Malecón,-0.8569874685,-80.5327033997,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+1422,tambien se necesita alimentacion en la parroquia 10 de agosto canton sucre san isidro recinto san josé hay casa caidas y personas fallecidas ,Ruta del Spondylus,-0.6221181098,-80.4288750887,Windows,186.46.207.31,"{""browser"":""Firefox"",""version"":""45.0"",""platform"":""Windows""}",1,water
+1432,"Zona Rural Tomal/ dentro de la Parroquia Rio Chico, Manabi Porviejo
+En una casa se Encuentran 5 familias, en todo el pueblo hay al rededor de 50 familias",E39,-0.9954754000,-80.4173514000,Windows,181.196.26.130,"{""browser"":""Chrome"",""version"":""50.0.2661.75"",""platform"":""Windows""}",1,food
+1442,"QUE NO LES  ENTREGAN ALIMENTOS, AGUA  Y SI HAY   CONTACTO SARA UBILLUS  098486699",Avenida Olmedo,-1.0547230000,-80.4524903000,Windows,186.71.27.132,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,drugs
+1452,"Sigan enviando ayuda para Rocafuerte, gracias por la ayuda amigos y hermanos ecuatorianos.",Callejón Claudio García,-0.9217389181,-80.4498767853,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1462,"Amigos estoy trabajando en el centro de salu de cojimies . 
+
+Hay un equipo buenísimo de médicos dee hospital metropolitano de Quito . Recién habilitamos el hospital y aun no hay pacientes . Favor ayuden a difundir que si nessesitan atención médica o cicologica venir a cojimies .",Unnamed Road,0.3650998203,-80.0379109383,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,rescue
+1472,"Amigos hoy el Hospital Baca Ortiz necesita nuestra ayuda, está llegando mucha gente que no tiene nada y no se abastecen, lo que más necesitan son colchones sobre todo y gente que ayude con donaciones, desayunos, etc. las voluntarias se están turnando para ir a atenderles pero no se dan abasto.
+
+Por favor comunicarse con la Presidenta de las Voluntarias de dicho hospital la 
+
+Sra. Lalita de Espinoza cel: 099 980 0010",Avenida Cristóbal Colón,-0.2024688083,-78.4863173962,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,hostel
+1482,"Se necesitan 250 voluntarios Ingenieros y Arquitectos con disponibilidad de desplazamiento a zonas afectadas por 3 días, los voluntarios serán capacitados, transportados, y tendrán espacio para acampar.
+
+Necesitamos respuestas inmediatas a actuemosecuador@gmail.com	",Pedernales,0.0719046404,-80.0524592400,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,rescue
+1492,Equipado y listo para recibir pacientes. Ayuda médica y sicológica.,Unnamed Road,0.3653894930,-80.0373530388,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,drugs
+1502,"#SismoEcuador Anoche nos llegó una gran idea para ayudar en a las personas afectadas por el Terremoto que aconteció en Ecuador. Como muchos saben se están pidiendo donativos de comida, medicinas, ropa, agua, etc, pero lo más dificil de conseguir son carpas. Es posible que muchas personas tengan sus carpas personales de Campus Party - Ecuador perdidas en el olvido de algún armario y esas pequeñas carpas pueden marcar la diferencia. Si tienen alguna de dichas carpas por favor donenla en cualquiera de los puntos en su ciudad. Gracias a todos! #GamersUnidos (Gracias Charbel Alexander por la gran idea)",Ruta del Spondylus,-0.4645964253,-80.4529666901,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,hostel
+1512,"0996831142 Traslados de emergencia, helicóptero de la Policía con base en Manta",Calle 304,-0.9676533000,-80.7089101000,Macintosh,70.161.209.146,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",2,rescue
+1522,Evacuación emergente de Manta a Gye por helicóptero 0984057678,Calle 304,-0.9676533000,-80.7089101000,Macintosh,70.161.209.146,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",2,rescue
+1532,"Este el sitio que reportó un geógrafo acerca de las vías habilitadas, puede ser de utilidad para el que esté viajando.
+
+http://bit.ly/vias-habilitadas-ec",Calle Hermogenes,-1.0621797542,-80.4336547852,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,transport
+1542,"Ayuda en Portoviejo, calle Santa Ana y México (Por el Shopping, parque del niño), necesidad urgente de Agua y Alimentos",México,-1.0592512839,-80.4670643806,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+1552,Un amigo que tiene familia en jaramijo-manta me dice que allá no tienen luz ni agua. Y que la tienda de abastecimiento de víveres se derrumbó. Envíen las donaciones también allá por favor. Además dicen que los muertos ya están oliendo mal,23 de Octubre,-0.9560251000,-80.6384944000,iPhone,200.7.246.235,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,food
+1562,"Se necesitan baños portatiles en Manabi, Canoa, Jama y Manta
+contacto: Lourdes 0986193931",Calle 319,-0.9777357462,-80.7055664063,Macintosh,190.216.214.177,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",2,rescue
+1572,Pañales agua comida,Calle America,-1.0478270051,-80.6591695547,Linux,201.183.153.128,"{""browser"":""Chrome"",""version"":""49.0.2623.105"",""platform"":""Linux""}",2,food
+1582,Se necesita donación de sábanas para Chamanga,Ruta del Spondylus,0.2666670000,-79.9333330000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,clothing
+1592,"Los recintos: 
+La Piquigua, Barreto, La Mocora, Bijagual, Colorado, Tigrillo y La Papaya pertenecientes a Jama no han sido atendidos todavía.En el mapa q les envio a continuacion se puede ver la ubicacion de los 5 primeros, los dos últimos no constan en el mapa.",Avenida Jama,-0.1912304189,-80.2623367310,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1602,Prueba Daphné,70,-2.1747705722,-79.9145507813,Macintosh,190.216.214.177,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",2,clothing
+1612,"Por favor, no nos olvidemos de los perros rescatistas, necesitan BOTAS ESPECIALES o VENDAS ELASTICAS #EcuadorSolidario #TerremotoEcuador #SeNecesitaEC",Juan Pereira,0.0756168146,-80.0465154648,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,rescue
+1622,"Se necesita VOLUNTARIOS para armar casas prefabricadas. 
+Contactos 099 802 9929",E382,0.0701665703,-80.0447988510,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,hostel
+1632,@friega_again En Calceta necesitan ayuda y no han sido tan atendidos...,Via Tosagua - Calceta,-0.8422691239,-80.1634812355,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1642,"#AyudaEc #SeNecesitaEC InfoVerificada. Rescate URG.  Requerimos 2 camiones, 3 médicos, militares, agua. hablar con Ricardo Garzón 099 901 6737",Ruta del Spondylus,-0.6632847450,-80.4240417480,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,transport
+1652,"Universidad Santa María... Se informa a los VOLUNTARIOS que quieran unirse a la construcción de Ataúdes emergentes pueden confirmar su asistencia en:
+
+099 497 5878 / comunicacion@usm.edu.ec",Avenue Carlos Julio Arosemena Tola,-2.1644782732,-79.9245071411,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,rescue
+1662,"Universidad Santa María... Se informa a los VOLUNTARIOS que quieran unirse a la construcción de Ataúdes emergentes pueden confirmar su asistencia en:
+
+099 497 5878 / comunicacion@usm.edu.ec",Avenue Carlos Julio Arosemena Tola,-2.1647784662,-79.9251616001,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,rescue
+1672,"Se necesita agua, comida, no llega ayuda. Por favor.",Vía a Rocafuerte,-0.7842208000,-80.2343302000,Linux,200.7.247.55,"{""browser"":""Chrome"",""version"":""38.0.2125.102"",""platform"":""Linux""}",4,water
+1682,"Se necesita agua, comida, no llega ayuda. Por favor.",Vía a Rocafuerte,-0.7842208000,-80.2343302000,Linux,200.7.247.55,"{""browser"":""Chrome"",""version"":""38.0.2125.102"",""platform"":""Linux""}",4,water
+1692,"Se necesita agua, comida, no llega ayuda. Por favor.",Vía a Rocafuerte,-0.7842208000,-80.2343302000,Linux,200.7.247.55,"{""browser"":""Chrome"",""version"":""38.0.2125.102"",""platform"":""Linux""}",4,water
+1702,"Se necesita agua, comida, no llega ayuda. Por favor.",Vía a Rocafuerte,-0.7842208000,-80.2343302000,Linux,200.7.247.55,"{""browser"":""Chrome"",""version"":""38.0.2125.102"",""platform"":""Linux""}",4,water
+1712,@camiladonoso87 Michelle Pérez está en Calceta. Dice que están pidiendo BARRAS ENERGÉTICAS para los niños. ,E384,-0.8411963560,-80.1593399048,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,food
+1722,"@milenaebriones
+Por favor sesolicita ayuda de electricidad y AGUA en el barrio 9 de octubre, calle110, tras ALES sectorTarqui #EcuadorListoYSolidario",Calle 110,-0.9581664600,-80.7089352608,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+1732,Porfavor aca no a llegado nada de ayuda me reportan familiares amigos de gente de Resbalón que no llega nada de ayuda aún!,E39,-0.9972020000,-80.4135440000,iPad,181.198.124.101,"{""browser"":""Safari"",""version"":""9.2.1"",""platform"":""iPad""}",3,transport
+1752,"El señor Harry González necesita ENVASES PLASTICOS con tapa y limpios para envasar agua.
+
+Av. Eloy Alfaro 860 y Polonia. Fábrica ""Puro Hielo""
+Contacto: 099 946 5621",Avenida General Eloy Alfaro,-0.1930502875,-78.4902843833,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,water
+1762,Porfavor acá en resbalon non ha llegado ayuda aún necesitam comida y agua!,E39,-0.9972020000,-80.4135440000,iPad,181.198.124.101,"{""browser"":""Safari"",""version"":""9.2.1"",""platform"":""iPad""}",3,food
+1772,Porfavor acá en resbalon non ha llegado ayuda aún!,E39,-0.9972020000,-80.4135440000,iPad,181.198.124.101,"{""browser"":""Safari"",""version"":""9.2.1"",""platform"":""iPad""}",3,hostel
+1792,"Se necesitan VOLUNTARIOS para armar casas prefabricadas. Para iniciar mañana jueves desde las 9am en el Municipio de Durán.
+
+Contacto Vanessa Álvarez 099 158 4906",Municipio,-2.1776438265,-79.8543673754,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,hostel
+1802,"#Difundir Se necesitan donaciones URGENTES para enviar a #Chamanga
+
+Llamar:
+
+",Unnamed Road,0.2695467000,-79.9556424000,Macintosh,190.12.7.118,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",39,food
+1812,"#Difundir Se necesitan donaciones URGENTES para enviar a #Chamanga
+
+Llamar: 099 392 5053 / 099 642 4405 / 099 795 6020 ",Unnamed Road,0.2700652613,-79.9562215805,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,water
+1822,"@radiopoderfm
+Sector hotelero de #Loja OFRECERÁ HOSPEDAJE GRATUITO a quienes deseen venir desde zonas afectadas por #SismoEcuador pic.twitter.com/Ilihza1fZt",Brasil,-4.0078909000,-79.2112769000,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,hostel
+1832,"AUN NO LLEGA AYUDA, NECESITAN COMIDA Y AGUA!",Calle 304,-0.9745215000,-80.7193627000,Macintosh,50.153.103.147,"{""browser"":""Safari"",""version"":""9.1"",""platform"":""Macintosh""}",1,food
+1842,"@Lafu_8
+Urgente: Necesitamos donaciones de vendas autoadhesivas de 5 a 7 pulgadas para los perros rescatistas #SeNecesitaEC #SismoEcuador",Eloy Alfaro,0.0728487772,-80.0506997108,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,rescue
+1852,"la ayuda en especial esta siendo dirigida a los damnificados, pero los que no son considerados damnificados no tienen ni donde ni con que dinero comprarla ",12 de Octubre,-1.0657786581,-80.4476934671,Windows,186.78.16.166,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",2,food
+1862,En San Isidro y sus alrededores se han caído casas y no ha llegado ayuda hasta el momento a socorrer y entregar alimentos ni insumos,Unnamed Road,-0.3785105830,-80.1809692383,Windows,190.96.105.64,"{""browser"":""Chrome"",""version"":""48.0.2564.116"",""platform"":""Windows""}",1,food
+1872,sin dinero ni donde comprar alimentos,15 de Abril,-1.0703617568,-80.4450353980,Windows,186.78.16.166,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",2,food
+1882,"@xabierloor
+#SeNecesitaEC Medicinas en San Vicente #Manabi. Si pasan por San Vicente frente a la Iglesia pregunten por la Dra. Ruth Loor",E383A,-0.6040437381,-80.4038500786,Macintosh,186.71.29.58,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",37,drugs
+1892,"Solicitan ayuda en un pequeño recinto ubicado entre el cantón Sucre y San Isidro, cerca de Bahía de Caraquez, donde existen cerca de 1000 habitantes y no ha llegado ayuda alguna.",Ruta del Spondylus,-0.6186619000,-80.4273644000,Windows,181.39.19.138,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,food
+1902,Agua,Via Puerto-Aeropuerto,-0.9508638184,-80.7102227211,Windows,186.47.254.17,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,water
+1922,Prueba,Unnamed Road,0.2389519440,-79.9955749512,iPhone,186.71.60.138,"{""browser"":""Safari"",""version"":""9.0.2"",""platform"":""iPhone""}",1,rescue
+1932,"Esta zona fue azotada por inundaciones la semana pasada, ahora necesitan agua, comida y energía luego del terremoto.",Ruta del Spondylus,-0.9210952711,-80.4597473145,Windows,186.178.172.162,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,food
+1942,Mañana dejar comida en La Burguesa Quito (Muros y Gonz Suárez) o La Tejedora (Junto Scala Cumbayá) para Cojimíes #SeNecesitaEC Salen viernes para Cojimíes,Unnamed Road,0.3650998203,-80.0373530388,Windows,181.198.142.241,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,food
+1952,Agua ,Ruta del Spondylus,-0.6186619000,-80.4273644000,iPhone,181.198.213.137,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,water
+1962,Agua ,Ruta del Spondylus,-0.6186619000,-80.4273644000,iPhone,181.198.213.137,"{""browser"":""Safari"",""version"":""9.3.1"",""platform"":""iPhone""}",1,water
+1972,Necesitan agua y alimentos,Avenida 108,-0.9559099000,-80.7049003000,Linux,181.113.147.32,"{""browser"":""Chrome"",""version"":""1.5"",""platform"":""Linux""}",1,food
+1982,Agua y comida varias familias,Calle 105,-0.9536221000,-80.7140694000,Linux,181.113.157.238,"{""browser"":""Chrome"",""version"":""1.5"",""platform"":""Linux""}",1,food
+1992,"Amigos por favor Barrio Santa Clara frente a la Coca Cola En Manta.
+
+ No tienen comida, agua y personas enfermas",Avenida 204,-0.9740991984,-80.7042789459,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2002,"Amigos por favor Barrio Santa Clara frente a la Coca Cola En Manta
+No tienen comida, agua y personas enfermas
+Gracias. Llamar Sra Erika Cedeño 098 265 3949",Avenida 206,-0.9738095616,-80.7048583031,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2012,SE OFRECE GUÍA A LUGARES SIN ATENCIÓN EN PORTOVIEJO: Favor llamar a Diego Vera 098 417 3615,10 de Agosto,-1.0574598739,-80.4537391663,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,rescue
+2022,"Barrio complicado San Pablo de Portoviejo, necesita ayuda comida, agua, atención medica",Avenida Alajuela,-1.0504873103,-80.4510998726,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2032,Se necesita transporte,Unnamed Road,-0.5822653681,-78.8049316406,Macintosh,186.71.186.8,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",1,transport
+2042,"Comunidad Cañitas en Junin necesita apoyo con agua, comida, medicinas",E384,-0.9258528919,-80.2066352963,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2052,En Quiroga nos piden ayuda con agua y comida,Calceta - Via Quiroga - Pichincha,-0.8857803340,-80.0994944572,Windows,186.3.212.90,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Windows""}",1,water
+2062,"@sunshineden1 En Jama llegan donaciones pero hacen falta medicina, leche, pañales y biberones por favor RT #SeNecesitaEC",Avenida Jama,-0.2019055479,-80.2639701962,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,drugs
+2072,"Pueblos que mas necesitan ayuda son CABUYA, EL CABUYAL (solo se llega por medio de lanchas) y EL MATAL.",Avenida Jama,-0.1968093816,-80.2755546570,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2082,"Provisiones Asociación Cerro Seco
+
+Se requiere: agua, alimento, carpas, plásticos, vestido (están durmiendo en las calles). CONTACTO: Marcelo Luque, telf 099 437 6399
+
+Bahía de Caráquez, Cantón Sucre, Manabí, Ecuador",Avenida Virgilio Ratti,-0.6064254068,-80.4285049438,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2092,"Ayuda para San Jacinto - contacto: 
+Cecilia 098 509 2324",Unnamed Road,-0.7868710157,-80.5002593994,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2102,"Ayuda para San Vicente - contactos con el Sr. 
+Pablo Vélez 098 947 3162",E383A,-0.6031211094,-80.4043865204,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2112,Ayuda para San Mateo por favor - contactos con Monica 098 874 4340,Unnamed Road,-0.9592418753,-80.8123826981,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,drugs
+2122,"Ayuda para EL MATAL, contacto: 
+Ricardo Vaca 098 084 6709
+Gracias por su apoyo.",Ruta del Spondylus,-0.1910587585,-80.2873992920,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2132,"LA CHORRERA, necesita de ayuda con agua y alimentos - contacto:
+Ángel Robles 098 055 667",Calle G,0.0646090371,-80.0596046448,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2142,"No llega ayuda a SOSOTE queda al sureste del canton rocafuert en el km 10 de la via portoviejo-chone
+
+Necesitan Agua y Alimentos.",E39A,-0.9602287897,-80.4662704468,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2152,El pueblo de PAVON ubicado en la parroquia ROCAFUERTE tambie necesita atencion,Via la California,-0.9147875252,-80.4565715790,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2162,"Manta los necesita, puedes hacer llegar tu donación al Patronato Municipal de Manta.
+
+Contactos: Analía Navarrete 099 171 5041 / Carolina Carrera 095 904 7107 / 096 739 5553",Avenida de la Cultura,-0.9545272094,-80.7248514891,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2172,"@magraciamedinaf
+
+PORFA DIFUNDIR #SeNecesitaEC camioneta para transportar 14 perritos de Manta a Guayaquil. cc @nubiasandovalz #EcuadorListoYSolidario",Vía Interbarrial,-0.9684673687,-80.7155227661,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,transport
+2182,"Se necesita para llevar a Cañitas y Portoviejo:
+-Agua para beber
+-Enlatados
+-comida para animales ",Ruta del Spondylus,-0.8551852253,-80.4693603516,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2192,"""Don Juan"", ""La Piquigua"", ""10 de Agosto"" parroquias aledañas a Jama necesitan ayuda con alimento y agua. ",Avenida Jama,-0.1908012678,-80.2614355087,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
+2202,"#SeNecesitaEC CAL y CAMIONES para su transporte para construir 2 fosas en Canoa y Pedernales
+Contacto con @mgbm82",Ruta del Spondylus,-0.4630086096,-80.4544258118,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,transport
+2212,"#SeNecesitaEC CAL y CAMIONES para su transporte para construir 2 fosas en Canoa y Pedernales
+
+Contacto con @mgbm82",Juan Pereira,0.0739002023,-80.0500774384,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,transport
+2222,"No se olviden de Canuto, necesitan de su ayuda con Agua y alimentos no perecibles.",E384,-0.7951957990,-80.1280546188,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,water
+2232,"@Jecalana
+#SeNecesitaEC Ollas, vajilla plástica NO DESECHABLE, no hay en qué preparar la comida",Calle 304,-0.9676533000,-80.7089101000,Macintosh,190.130.217.101,"{""browser"":""Chrome"",""version"":""49.0.2623.112"",""platform"":""Macintosh""}",23,food
